@@ -5,4 +5,4 @@
 * Finally, the [**LerpSound script**](LerpSound.cs) is responsible for creating a slowly increasing sound-effect within the game.
 * Finally, the [**SceneLoader script**](SceneLoader.cs) is simply used to transition between in-game scenes.
 
-### Additionally, there are 2 Videoclips (Links included) which will give you a run-through of what to expect in the game and the internal sections of each script.
+### Additionally, there are 2 Videoclips [**(Links included)**](VideoLinks.txt) which will give you a run-through of what to expect in the game and the internal sections of each script.
