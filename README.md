@@ -1,5 +1,6 @@
-<h1 align="center">Anger-Management </h1>
+# Anger-Management
 ## The files presented here show the logic behind production of Anger Management itself:-
+
 * The [**AdminLogin.cs script**](AdminLogin.cs) is a third party script utilized to add a "log-in" feature to the tool itself.
 * The [**DestroyButton.cs script**](DestroyButton.cs)focuses on providing a sense of control and calmness to the patient when he/she has provided their thoughts about the choices they made.
 * Finally, the [**LerpSound script**](LerpSound.cs) is responsible for creating a slowly increasing sound-effect within the game.
